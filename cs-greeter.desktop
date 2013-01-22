@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=CS Greeter That helpz the peeps 
+Comment=Helps you log in n stuff
+Exec=cs-greeter.py
+Type=Application
